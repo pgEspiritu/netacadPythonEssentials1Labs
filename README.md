@@ -1,4 +1,4 @@
-# 🐍 netacadPythonEssentials1Labs
+# 🐍 Cisco NetAcad - Python Essentials 1 Course Labs
 
 > **Collection of Lab Codes from the Python Essentials 1 Course by Cisco Networking Academy (NetAcad)**
 
@@ -26,3 +26,5 @@ The **Python Essentials 1** course is designed for beginners and covers the foun
 - [Lab 2: Counting Mississippily](lab01_secretNumberInstruction.txt) - [Lab 2 Code](lab02_count.py)
 - [Lab 3: The break statement – Stuck in a loop](Lab03_breakInstruction.txt) - [Lab 3: Code](Lab03_break.py)
 - [Lab 4: The continue statement – the Ugly Vowel Eater](Lab04_continueInstruction.txt) - [Lab 4: Code](Lab04_continue.py)
+- [Lab 5: The continue statement – the Pretty Vowel Eater](Lab05_continue2Instruction.txt) - [Lab 5: Code](Lab05_continue2.py)
+- [Lab 6: Essentials of the while loop](Lab06_whileLoopInstruction.txt) - [Lab 6: Code](Lab06_whileLoop.py)
