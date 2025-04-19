@@ -22,4 +22,4 @@ The **Python Essentials 1** course is designed for beginners and covers the foun
 
 ## 🗂️ Repository Structure
 
-- Lab 1: Guess the Secret Number: 
+- [Lab 1: Guess the Secret Number](lab01_secretNumberInstruction.txt) -
