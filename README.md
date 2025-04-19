@@ -24,3 +24,5 @@ The **Python Essentials 1** course is designed for beginners and covers the foun
 
 - [Lab 1: Guess the Secret Number](lab01_secretNumberInstruction.txt) - [Lab 1 Code](lab01_secretNumber.py)
 - [Lab 2: Counting Mississippily](lab01_secretNumberInstruction.txt) - [Lab 2 Code](lab02_count.py)
+- [Lab 3: The break statement – Stuck in a loop](Lab03_breakInstruction.txt) - [Lab 3: Code](Lab03_break.py)
+- [Lab 4: The continue statement – the Ugly Vowel Eater](Lab04_continueInstruction.txt) - [Lab 4: Code](Lab04_continue.py)
