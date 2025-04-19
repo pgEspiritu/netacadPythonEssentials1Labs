@@ -22,4 +22,5 @@ The **Python Essentials 1** course is designed for beginners and covers the foun
 
 ## 🗂️ Repository Structure
 
-- [Lab 1: Guess the Secret Number](lab01_secretNumberInstruction.txt) -
+- [Lab 1: Guess the Secret Number](lab01_secretNumberInstruction.txt) - [Lab 1 Code](lab01_secretNumber.py)
+- [Lab 2: Counting Mississippily](lab01_secretNumberInstruction.txt) - [Lab 2 Code](lab02_count.py)
