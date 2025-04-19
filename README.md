@@ -28,3 +28,4 @@ The **Python Essentials 1** course is designed for beginners and covers the foun
 - [Lab 4: The continue statement – the Ugly Vowel Eater](Lab04_continueInstruction.txt) - [Lab 4: Code](Lab04_continue.py)
 - [Lab 5: The continue statement – the Pretty Vowel Eater](Lab05_continue2Instruction.txt) - [Lab 5: Code](Lab05_continue2.py)
 - [Lab 6: Essentials of the while loop](Lab06_whileLoopInstruction.txt) - [Lab 6: Code](Lab06_whileLoop.py)
+- [Lab 7: Collatz's hypothesis](Lab07_collatzHypothesis.txt) - [Lab 7: Code](Lab07_collatzHypothesis.py)
