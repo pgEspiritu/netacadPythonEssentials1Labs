@@ -31,3 +31,5 @@ The **Python Essentials 1** course is designed for beginners and covers the foun
 - [Lab 7: Collatz's hypothesis](Lab07_collatzHypothesis.txt) - [Lab 7: Code](Lab07_collatzHypothesis.py)
 - [Lab 8: The Basic of List](Lab08_TheBasicsOfList.txt) - [Lab 8: Code](Lab08_TheBasicsOfList.py)
 - [Lab 9: The Basics of Lists ‒ the Beatles](Lab09_TheBasicsOfListTheBeatles.txt) - [Lab 9: Code](Lab09_TheBasicsOfListTheBeatles.py)
+- [Lab 10: Operating with Lists - Basics](Lab10_OperatingWithLists_Basics.txt) - [Lab 10: Code](Lab10_OperatingWithLists_Basics.py)
+- [Lab 11: A Leap Year - Writing Your Functions](Lab11_WritingYourOwnFunctions.txt) - [Lab 11: Code](Lab11_WritingYourOwnFunctions.py) 
